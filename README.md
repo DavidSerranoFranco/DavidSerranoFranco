@@ -6,10 +6,15 @@
 	<div>Soy un estudiante apasionado de la Ingeniería de Entornos Virtuales y Negocios Digitales que esta aprendiendo habilidades técnicas. A través de mi educación y proyectos personales, he adquirido conocimientos en el desarrollo de soluciones digitales innovadoras. Busco una oportunidad de aprendizaje para aplicar y ampliar mis conocimientos en un ambiente profesional.
   	<br/>
 	<br/>
-	<br/>
   </div>
   
-<a href="#"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSerranoFranco&layout=compact&hide_border=true" /></a>
+<a href="#"><a href="#"><img align="center"  />
+
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSerranoFranco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	<br/>
+	<br/>
+</a>
 
 <div align="center"> 
 <a href="https://www.instagram.com/david.s.franco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

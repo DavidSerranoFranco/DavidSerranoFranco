@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=0C55F7&center=true&random=false&width=900&lines=Hola+soy+David;Tengo+19+a%C3%B1os+de+edad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+19+years+old;I+am+from+Mexico;I+Student+Software+Desing;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>Soy un estudiante apasionado de la Ingeniería de Entornos Virtuales y Negocios Digitales que esta aprendiendo habilidades técnicas. A través de mi educación y proyectos personales, he adquirido conocimientos en el desarrollo de soluciones digitales innovadoras. Busco una oportunidad de aprendizaje para aplicar y ampliar mis conocimientos en un ambiente profesional.
+	<div>I am a passionate student of Virtual Environment Engineering and Digital Business who is learning technical skills. Through my education and personal projects, I gained knowledge in developing innovative digital solutions. I am looking for a learning opportunity to apply and expand my knowledge in a professional environment.
   	<br/>
 	<br/>
   </div>

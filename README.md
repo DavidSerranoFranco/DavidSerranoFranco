@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=20&size=30&pause=1000&color=0C55F7&center=true&repeat=false&random=false&width=500&lines=Hola+soy+David;Tengo+19+a%C3%B1os+de+edad;Estudio+desarrollo+web+y+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0C55F7&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Hola+soy+David;Tengo+19+a%C3%B1os+de+edad)](https://git.io/typing-svg)
 
 <div align="center">
 	<div>Soy un estudiante apasionado de la Ingeniería de Entornos Virtuales y Negocios Digitales que esta aprendiendo habilidades técnicas. A través de mi educación y proyectos personales, he adquirido conocimientos en el desarrollo de soluciones digitales innovadoras. Busco una oportunidad de aprendizaje para aplicar y ampliar mis conocimientos en un ambiente profesional.

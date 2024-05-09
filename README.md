@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+19+years+old;I+am+from+Mexico;I+Student+Software+Desing;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>I am a passionate student of Virtual Environment Engineering and Digital Business who is learning technical skills. Through my education and personal projects, I gained knowledge in developing innovative digital solutions. I am looking for a learning opportunity to apply and expand my knowledge in a professional environment.
+	<div>Soy un estudiante apasionado de la Ingeniería de Entornos Virtuales y Negocios Digitales que esta aprendiendo habilidades técnicas. A través de mi educación y proyectos personales, he adquirido conocimientos en el desarrollo de soluciones digitales innovadoras. Busco una oportunidad de aprendizaje para aplicar y ampliar mis conocimientos en un ambiente profesional.
   	<br/>
 	<br/>
   </div>

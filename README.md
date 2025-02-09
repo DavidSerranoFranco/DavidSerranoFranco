@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+19+years+old;I+am+from+Mexico;I+Student+Software+Desing;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+20+years+old;I+am+from+Mexico;I+Development+Software+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 	<div>As a 8th-grade student in Virtual Environments and Digital Business Engineering, I have skills and knowledge in the development of innovative digital solutions, such as Web Applications, PHP, Laravel, Python, QA Manual Testing, SQL, MySQL Workbench, PostgreSQL, Git and GitHub, Advanced Exce.

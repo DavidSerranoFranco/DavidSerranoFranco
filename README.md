@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+20+years+old;I+am+from+Mexico;I+Development+Software+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>As an 8th-grade student in Virtual Environments and Digital Business Engineering, I have skills and knowledge in developing innovative digital solutions, such as Web Applications, PHP, Laravel, Python, QA Manual Testing, SQL, MySQL Workbench, PostgreSQL, Git and GitHub, and Advanced Excel.
+	<div>Technical Virtual Environment and Digital Business Engineering, I have skills and knowledge in the development of innovative digital solutions, such as Data Analyst with Python, QA Manual Testing, Web Applications, PHP, SQL, MySQL Workbench, PostgreSQL, Pandas, Git, Laravel.
   	<br/>
 	<br/>
   </div>

@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+20+years+old;I+am+from+Mexico;I+Development+Software+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>Technical Virtual Environment and Digital Business Engineering, I have skills and knowledge in the development of innovative digital solutions, such as Data Analyst with Python, QA Manual Testing, Web Applications, PHP, SQL, MySQL Workbench, PostgreSQL, Pandas, Git, Laravel.
+	<div>Technical Virtual Environment & Digital Business Engineering | Data Analysis | QA Testing | Web Development
+<br/>
+I have experience in data analysis with Python, manual software testing, and web application development. I work with PHP, SQL, MySQL Workbench, PostgreSQL, Pandas, Git, and Laravel.
+
+I'm passionate about technology and how it can be used to create practical and innovative solutions. Always open to learning and improving.
   	<br/>
 	<br/>
   </div>

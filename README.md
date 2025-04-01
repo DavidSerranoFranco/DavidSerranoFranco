@@ -4,13 +4,13 @@
 
 <div align="center">
 	<div>Data Analyst | Python (Pandas, Matplotlib) | SQL & Power BI | QA Testing & Web Development
-<br/>
+<br/><br/>
 Data Analyst with expertise in transforming raw data into actionable insights. I leverage Python (Pandas, Matplotlib), SQL, and Power BI to analyze datasets, automate reports, and drive data-informed decisions. 
-<br/>
-My technical toolkit also includes:
-- Data Processing: Excel (Power Query, DAX, pivot tables), PostgreSQL.
+<br/><br/>
+My technical toolkit also includes:<br/>
+- Data Processing: Excel (Power Query, DAX, pivot tables), PostgreSQL.<br/>
 - Development & Testing: Web applications (PHP, Laravel), manual QA, Git.
-<br/>
+<br/><br/>
 I’m passionate about bridging the gap between data and business solutions, optimizing processes through analytics, and continuously learning emerging technologies.
   	<br/>
 	<br/>

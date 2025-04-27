@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+20+years+old;I+am+from+Mexico;I+Development+Software+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>Data Analyst | Python (Pandas, Matplotlib) | SQL & Power BI | QA Testing & Web Development
+	<div>Data Analyst | Python | SQL & Power BI | Data Engineer & Software Engineer
 <br/><br/>
 Data Analyst with expertise in transforming raw data into actionable insights. I leverage Python (Pandas, Matplotlib), SQL, and Power BI to analyze datasets, automate reports, and drive data-informed decisions. 
 <br/><br/>
 My technical toolkit also includes:<br/>
-- Data Processing: Excel (Power Query, DAX, pivot tables), PostgreSQL.<br/>
-- Development & Testing: Web applications (PHP, Laravel), manual QA, Git.
+- Data Processing: Power BI (DAX, Power Query), Excel (Power Query, Pivot Tables) & SQL.<br/>
+- Development & Testing: Web applications, QA Testing, Git & Docker.
 <br/><br/>
 I’m passionate about bridging the gap between data and business solutions, optimizing processes through analytics, and continuously learning emerging technologies.
   	<br/>

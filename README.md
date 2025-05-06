@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I+am+20+years+old;I+am+from+Mexico;I+Development+Software+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I´m+20+years+old;I´m+from+México;I´m+Data+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 	<div>Data Analyst | Python | SQL & Power BI | Data Engineer & Software Engineer

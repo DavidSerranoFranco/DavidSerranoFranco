@@ -1,17 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I´m+20+years+old;I´m+from+México;I´m+Data+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I´m+21+years+old;I´m+from+México;I´m+Data+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>Data Analyst | Python | SQL & Power BI | Data Engineer & Software Engineer
+	<div>Jr. Data/ Engineer & Data Analyst | Cloud Data Pipelines | Python | SQL/NoSQL | Spark | Airflow | GCP | Docker | Git | Data Warehousing
 <br/><br/>
-Data Analyst with expertise in transforming raw data into actionable insights. I leverage Python (Pandas, Matplotlib), SQL, and Power BI to analyze datasets, automate reports, and drive data-informed decisions. 
+I specialize in transforming raw data into scalable and actionable insights. My experience bridges Data Analytics and Data Engineering, enabling me to design pipelines, automate workflows, and support data-driven decision-making. 
 <br/><br/>
-My technical toolkit also includes:<br/>
-- Data Processing: Power BI (DAX, Power Query), Excel (Power Query, Pivot Tables) & SQL.<br/>
-- Development & Testing: Web applications, QA Testing, Git & Docker.
+Technical Toolkit:<br/>
+- Data Engineering: ETL/ELT pipelines, SQL/NoSQL databases, Spark, Airflow, GCP, Docker, Git.<br/>
+- Data Analytics: Python (Pandas, NumPy, Matplotlib), SQL, Power BI (DAX, Power Query), Excel (Power Query, Pivot Tables).<br/>
+- Development & Testing: Web applications, QA Testing, CI/CD practices.
 <br/><br/>
-I’m passionate about bridging the gap between data and business solutions, optimizing processes through analytics, and continuously learning emerging technologies.
+Passionate about bridging the gap between business and technology, optimizing processes through data, and continuously exploring emerging technologies in the cloud and AI ecosystem.
   	<br/>
 	<br/>
   </div>

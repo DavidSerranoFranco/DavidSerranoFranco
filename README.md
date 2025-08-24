@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Serrano+Franco;I´m+21+years+old;I´m+from+México;I´m+Data+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-	<div>Jr. Data/ Engineer & Data Analyst | Cloud Data Pipelines | Python | SQL/NoSQL | Spark | Airflow | GCP | Docker | Git | Data Warehousing
+	<div>Jr. Data Engineer | Cloud Data Pipelines | Python | SQL/NoSQL | Spark | Airflow | GCP | Docker | Git | Data Warehousing
 <br/><br/>
 I specialize in transforming raw data into scalable and actionable insights. My experience bridges Data Analytics and Data Engineering, enabling me to design pipelines, automate workflows, and support data-driven decision-making. 
 <br/><br/>

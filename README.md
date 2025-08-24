@@ -81,8 +81,8 @@ Passionate about bridging the gap between business and technology, optimizing pr
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 <div align="center">
-<br><p align="centre"><b>Visitor count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DavidSerranoFranco}/count.svg" /></p> 
+<!--<br><p align="centre"><b>Visitor count</b></p>  -->
+<!--<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DavidSerranoFranco}/count.svg" /></p>-->
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>

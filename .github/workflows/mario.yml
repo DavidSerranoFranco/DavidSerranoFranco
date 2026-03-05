@@ -16,7 +16,8 @@ jobs:
           user: DavidSerranoFranco
           template: repository
           base: ""
-          filename: mario-metrics.svg # Nombre del archivo generado
+          filename: mario-metrics.svg
+          committer_branch: output
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_sections: most-used

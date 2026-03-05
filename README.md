@@ -34,6 +34,15 @@
 
 ---
 
+### 🍄 Power-Ups & Skills (Mario Edition)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSerranoFranco&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/master/assets/mario.gif" width="150" />
+</div>
+
+---
+
 ### 🚀 Leveling Up (Currently Learning)
 `AWS` • `Scala` • `Go` • `TensorFlow` • `Scikit-learn`
 

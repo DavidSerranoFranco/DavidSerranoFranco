@@ -19,13 +19,12 @@ Passionate about bridging the gap between business and technology, optimizing pr
 
   
   
-<a href="#"><a href="#"><img align="center"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/david/david/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/david/david/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/david/david/output/pacman-contribution-graph.svg">
+</picture>
 
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSerranoFranco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	<br/>
-	<br/>
-</a>
 
 <div align="center"> 
 <a href = "david09115678@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

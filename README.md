@@ -43,20 +43,6 @@
 
 ---
 
-### 🏰 Final Boss: Bowser's Castle (Contact)
-<div align="center">
-  <img src="https://64.media.tumblr.com/tumblr_m98u998U711r4etvjo1_500.gif" width="200" alt="Bowser Castle" />
-  <br>
-  <a href="mailto:david09115678@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/david-serrano-franco-77805025b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
 ### 🚀 Leveling Up (Currently Learning)
 `AWS` • `Scala` • `Go` • `TensorFlow` • `Scikit-learn`
 

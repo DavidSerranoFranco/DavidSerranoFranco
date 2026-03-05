@@ -14,7 +14,11 @@
 > I specialize in transforming raw data into scalable and actionable insights. My experience bridges Data Analytics and Data Engineering, enabling me to design pipelines, automate workflows, and support data-driven decision-making.
 
 <div align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---

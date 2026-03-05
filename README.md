@@ -36,9 +36,9 @@
 
 ### 🍄 Power-Ups & Skills (Mario Edition)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSerranoFranco&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+  <img src="https://raw.githubusercontent.com/Mayccoll/Mayccoll/master/images/mario.gif" width="100" />
   <br>
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/master/assets/mario.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/mario-metrics.svg" />
 </div>
 
 ---

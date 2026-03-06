@@ -34,17 +34,16 @@
 
 ---
 
-### 🍄 Power-Ups & Skills (Mario Edition)
+### 🚀 Defendiendo el Código
+> My GitHub contributions turned into a retro battlefield. The more code, the stronger the enemies!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Mayccoll/master/images/mario.gif" width="100" />
-  <br>
-  <img src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/output/mario-metrics.svg" />
+  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/space-shooter.gif" width="100%" />
 </div>
 
 ---
 
-### 🚀 Leveling Up (Currently Learning)
+### 🎮 Leveling Up (Currently Learning)
 `AWS` • `Scala` • `Go` • `TensorFlow` • `Scikit-learn`
 
 ---

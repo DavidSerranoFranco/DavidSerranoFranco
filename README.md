@@ -35,6 +35,7 @@
 ---
 
 ### 🍄 Power-Ups & Skills (Mario Edition)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mayccoll/Mayccoll/master/images/mario.gif" width="100" />
   <br>

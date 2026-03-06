@@ -2,7 +2,7 @@ name: Generate Mario Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta cada medianoche
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -19,10 +19,9 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: DavidSerranoFranco
-          template: repository
-          base: ""
+          template: classic
           filename: mario-metrics.svg 
-          committer_branch: output # 👈 ¡ESTA ES LA LÍNEA MÁGICA! Envía a Mario a la rama correcta
+          committer_branch: output 
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_sections: most-used

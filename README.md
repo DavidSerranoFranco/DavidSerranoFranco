@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Defendiendo el Código
+### 🎮 Defending the Code
 > My GitHub contributions turned into a retro battlefield. The more code, the stronger the enemies!
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎮 Leveling Up (Currently Learning)
+### 🚀 Leveling Up (Currently Learning)
 `AWS` • `Scala` • `Go` • `TensorFlow` • `Scikit-learn`
 
 ---

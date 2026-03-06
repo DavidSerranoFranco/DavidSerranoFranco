@@ -25,6 +25,8 @@
 
 ### 🛠️ Technical Inventory (Skills)
 
+<img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/megaman-pixel-art.gif" width="150" alt="Megaman Animado" />
+
 | Category | Technologies |
 | :--- | :--- |
 | **Data Engineering** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
@@ -49,6 +51,9 @@
 ---
 
 ### 📧 Connect with the Developer
+
+<img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/python-pixel-art.png" width="110" alt="Python Pixel Art" />
+
 <div align="left">
   <a href="mailto:david09115678@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

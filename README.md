@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007AA1&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+DAVID+SERRANO;Data+Engineer+from+México+🇲🇽;Building+Scalable+Data+Pipelines;Welcome+to+my+Level+:%29" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=002D3B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+David+Serrano;Data+Engineer+&+AI+Engineer;Building+Scalable+Data+Pipelines;Welcome+to+my+Level+:%29" />
   </a>
 
   <h3> ⚡ Data Engineer | Cloud Data Architect | AI Engineer 🤗 </h3>

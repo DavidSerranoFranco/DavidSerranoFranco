@@ -54,7 +54,7 @@
 ---
 
 ### 🚀 Leveling Up (Currently Learning)
-`MS in Big Data (UAG)` • `Scala` • `Go` • `MLOps (MLflow & Kubeflow)` • `LLM Fine-tuning` • `AWS Cloud Architect`
+`MS in Big Data (UAG)` • `Advanced Scala` • `Go` • `MLOps (MLflow & Kubeflow)` • `LLM Fine-tuning` • `AWS Cloud Architect`
 
 ---
 

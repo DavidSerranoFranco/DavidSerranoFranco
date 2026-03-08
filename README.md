@@ -11,7 +11,7 @@
 ---
 
 ### 🕹️ Loading Player Stats...
-> I specialize in transforming raw data into scalable and actionable insights. My experience bridges Data Analytics and Data Engineering, enabling me to design pipelines, automate workflows, and support data-driven decision-making.
+> I am a Data & AI Engineer and Big Data MS Candidate focused on building the bridge between massive data architectures and Intelligent Systems. I specialize in designing Cloud Data Pipelines and LLMOps framework, transforming complex datasets into scalable RAG (Retrieval-Augmented Generation) solutions. My goal is to orchestrate data and AI to drive high-impact, automated decision-making.
 
 <div align="center">
   <picture>
@@ -29,15 +29,23 @@
 
 | Category | Technologies |
 | :--- | :--- |
+| **AI & LLMOps** | ![RAG](https://img.shields.io/badge/-RAG-FF6F61?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-336791?style=flat-square) |
+| **Data Engineering** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=flat-square&logo=scala&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
+| **Cloud & Ops** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Visualization** | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+<!--
+| Category | Technologies |
+| :--- | :--- |
 | **Data Engineering** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
 | **Cloud & Ops** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Data Analytics** | ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-
+-->
 ---
 
-### 🎮 Defending the Code
-> My GitHub contributions turned into a retro battlefield. The more code, the stronger the enemies!
+### 👾 Defending the Code
+> Turning petabytes of raw data into high-score insights. My contribution graph is the engine, and the code is the fuel for the next level!
 
 <div align="center">
   <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/space-shooter.gif" width="100%" />
@@ -46,7 +54,7 @@
 ---
 
 ### 🚀 Leveling Up (Currently Learning)
-`AWS` • `Scala` • `Go` • `TensorFlow` • `Scikit-learn`
+`MS in Big Data (UAG)` • `Scala` • `Go` • `MLOps (MLflow & Kubeflow)` • `LLM Fine-tuning` • `AWS Cloud Architect`
 
 ---
 

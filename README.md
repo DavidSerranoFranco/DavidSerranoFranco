@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=002D3B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+David+Serrano;Data+Engineer+and+AI+Engineer;Building+Scalable+Data+Pipelines;Welcome+to+my+Level+:%29" />
   </a>
 
-  <h3> ⚡ Data Engineer | Cloud Data Architect 🤗 </h3>
+  <h3> ⚡ Data Engineer | Data Platform Engineer | Data Architect 🤗 </h3>
 </div>
 
 ---
@@ -14,6 +14,12 @@
 > I am a Data Engineer focused on architecting scalable Data Platforms and high-performance distributed systems. My expertise lies in building the foundational infrastructure required to power Intelligent Systems, bridging the gap between massive data processing and LLMOps.
 <br><br>
 Currently, I am specializing in the Modern Data Stack, mastering distributed computing with Spark (Scala/Python) and cloud orchestration with GCP, Airflow, and Kubernetes. My objective is to design resilient data architectures that enable seamless RAG (Retrieval-Augmented Generation) and automated decision-making at scale.
+<br>
+<br>
+* **Data Infrastructure:** Designing ETL/ELT pipelines and **Data Lakehouse** architectures using **GCP** and **Snowflake**.
+* **Distributed Systems:** High-throughput processing with **Apache Spark** and real-time streaming with **Kafka**.
+* **Platform Engineering:** Containerized orchestration with **Docker & K8s**, and Infrastructure as Code (**IaC**).
+* **AI Systems:** Scalable **LLMOps** frameworks, Vector Databases (**ChromaDB/Pinecone**), and **RAG** integration.
 
 <div align="center">
   <picture>

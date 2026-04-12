@@ -14,8 +14,8 @@
 > I am a Data Engineer focused on architecting scalable Data Platforms and high-performance distributed systems. My expertise lies in building the foundational infrastructure required to power Intelligent Systems, bridging the gap between massive data processing and LLMOps.
 <br><br>
 Currently, I am specializing in the Modern Data Stack, mastering distributed computing with Spark (Scala/Python) and cloud orchestration with GCP, Airflow, and Kubernetes. My objective is to design resilient data architectures that enable seamless RAG (Retrieval-Augmented Generation) and automated decision-making at scale.
-<br>
-<br>
+### Technical Focus
+
 * **Data Infrastructure:** Designing ETL/ELT pipelines and **Data Lakehouse** architectures using **GCP** and **Snowflake**.
 * **Distributed Systems:** High-throughput processing with **Apache Spark** and real-time streaming with **Kafka**.
 * **Platform Engineering:** Containerized orchestration with **Docker & K8s**, and Infrastructure as Code (**IaC**).

@@ -30,11 +30,6 @@ Currently, I am specializing in the Modern Data Stack, mastering distributed com
 </div>
 
 ---
-
-### 🛠️ Technical Inventory (Skills)
-
-<img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/megaman-pixel-art.gif" width="150" alt="Megaman Animado" />
-
 ### 🛠️ Technical Inventory (Skills)
 
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/megaman-pixel-art.gif" width="150" alt="Megaman Animado" />

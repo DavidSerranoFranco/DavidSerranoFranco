@@ -10,7 +10,7 @@
 
 ---
 
-### 🕹️ Loading Player Stats...
+### Loading Player Stats...
 > I am a Cloud Data Engineer focused on architecting scalable Data Platforms and high-performance distributed systems. My expertise lies in building the foundational backend required to process massive datasets, bridging the gap between real-time event streaming and robust data warehousing.
 <br><br>
 Currently, I am specializing in the Modern Data Stack and Infrastructure-as-Code (IaC). I build end-to-end pipelines and orchestrate cloud workflows utilizing Databricks, GCP, Snowflake, Terraform, and Kafka, while mastering distributed computing with Apache Spark (Scala/Python).
@@ -32,7 +32,7 @@ My objective is to design resilient, highly available data architectures that po
 </div>
 
 ---
-### 🛠️ Technical Inventory (Skills)
+### Technical Inventory (Skills)
 
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/megaman-pixel-art.gif" width="150" alt="Megaman Animado" />
 
@@ -46,7 +46,7 @@ My objective is to design resilient, highly available data architectures that po
 
 ---
 
-### 👾 Defending the Code
+### Defending the Code
 > Turning petabytes of raw data into high-score insights. My contribution graph is the engine, and the code is the fuel for the next level!
 
 <div align="center">

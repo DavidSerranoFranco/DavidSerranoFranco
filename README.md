@@ -46,8 +46,8 @@ My objective is to design resilient, highly available data architectures that po
 
 ---
 
-### Defending the Code
-> Turning petabytes of raw data into high-score insights. My contribution graph is the engine, and the code is the fuel for the next level!
+### Engineering Data Worlds
+> Building data platforms level by level. Power-ups: Scala, Python & Spark. No warp zones needed, just solid architecture!
 
 <!-- <div align="center">
   <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/space-shooter.gif" width="100%" />

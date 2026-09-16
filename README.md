@@ -56,11 +56,6 @@ My objective is to design resilient, highly available data architectures that po
 ---
 
 
-
----
-
-### 📧 Connect with the Developer
-
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/python-pixel-art.png" width="110" alt="Python Pixel Art" />
 
 <br />

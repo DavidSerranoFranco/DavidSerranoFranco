@@ -49,13 +49,12 @@ My objective is to design resilient, highly available data architectures that po
 ### Defending the Code
 > Turning petabytes of raw data into high-score insights. My contribution graph is the engine, and the code is the fuel for the next level!
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/space-shooter.gif" width="100%" />
-</div>
+</div> -->
+<img align="center" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/mario.gif" alt="Megaman Animado" />
 
 ---
-
-
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/python-pixel-art.png" width="110" alt="Python Pixel Art" />
 
 <br />

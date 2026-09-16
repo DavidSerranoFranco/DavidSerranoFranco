@@ -55,20 +55,13 @@ My objective is to design resilient, highly available data architectures that po
 
 ---
 
-### 🚀 Leveling Up (Currently Learning)
-`Advanced Scala` • `Go`
+
 
 ---
 
 ### 📧 Connect with the Developer
 
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/python-pixel-art.png" width="110" alt="Python Pixel Art" />
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/david-serrano-franco-77805025b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
 <br />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A4D4&height=120&section=footer"/>

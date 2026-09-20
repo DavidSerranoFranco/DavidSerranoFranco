@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A4D4&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=002D3B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+David;Data+Engineer+and+Data+Platform+Engineer;Building+Scalable+Data+Pipelines;Welcome+to+my+Level+:%29" />
@@ -58,4 +58,4 @@ My objective is to design resilient, highly available data architectures that po
 <img align="right" src="https://raw.githubusercontent.com/DavidSerranoFranco/DavidSerranoFranco/main/python-pixel-art.png" width="110" alt="Python Pixel Art" />
 
 <br />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A4D4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=110&section=footer"/>

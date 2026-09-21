@@ -5,23 +5,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=002D3B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+David;Data+Engineer+and+Data+Platform+Engineer;Building+Scalable+Data+Pipelines;Welcome+to+my+Level+:%29" />
   </a>
 
-  <h3> Cloud Data Engineer | Data Platform/Software Engineer | Real-Time Data Streaming </h3>
+  <h3> Cloud Data Engineer | Data Platform & Software Engineer | Infrastructure & Automation </h3>
 </div>
 
 ---
 
 ### Loading Player Stats...
-> I am a Cloud Data Engineer focused on architecting scalable Data Platforms and high-performance distributed systems. My expertise lies in building the foundational backend required to process massive datasets, bridging the gap between real-time event streaming and robust data warehousing.
+> I am a Cloud Data Engineer focused on architecting scalable Data Platforms, robust ELT/ETL pipelines, and high-performance cloud backends. My expertise lies in building reliable infrastructure to transform raw data into analytics-ready platforms, focusing on observability, cost-efficiency, and high availability.
 <br><br>
-Currently, I am specializing in the Modern Data Stack and Infrastructure-as-Code (IaC). I build end-to-end pipelines and orchestrate cloud workflows utilizing Google Cloud, Snowflake, Terraform, and Kafka, while mastering distributed computing with Apache Spark (Scala/Python).
+Currently, I specialize in the Modern Data Stack and Infrastructure-as-Code (IaC). I build end-to-end data pipelines and orchestrate cloud workflows utilizing Google Cloud, Snowflake, Terraform, Airflow, and dbt, while leveraging Apache Spark (PySpark) and Polars for large-scale data processing.
 <br><br>
-My objective is to design resilient, highly available data architectures that power automated decision-making at scale, driven by a long-term career trajectory toward becoming a Quantum Data Engineer/Architect.
+My objective is to design resilient, highly available data architectures that automate data lifecycles at scale, driven by a long-term career trajectory toward becoming a Quantum Data Engineer/Architect.
 ### Technical Focus
 
-* **Data Infrastructure & Modern Data Stack:** Designing scalable ETL/ELT pipelines and **Data Lakehouse** architectures utilizing **Google Cloud**, **Snowflake**, and **dbt**.
-* **Distributed Systems & Streaming:** Architecting high-throughput processing and near real-time event streaming systems with **Apache Spark** (Scala/Python) and **Apache Kafka**.
-* **Platform & Reliability Engineering:** Implementing Infrastructure as Code (**IaC**) to eliminate configuration drift using **Terraform**, alongside containerized orchestration with **Docker & K8s**, and automation via **Bash / Shell Scripting**.
-* **CI/CD & Workflow Automation:** Automating the data lifecycle and orchestrating robust workflows through Git-based CI/CD pipelines utilizing **GitHub Actions** and **Apache Airflow**.
+* **Data Infrastructure & Modern Data Stack:** Architecting scalable **ETL/ELT** pipelines and **Data Lakehouse** architectures utilizing **Google Cloud** (**BigQuery**, **GCS**), **Snowflake**, and **dbt**.
+* **Distributed & High-Performance Data Processing:** Building high-throughput batch processing pipelines and optimizing analytical data models using **Apache Spark** (**PySpark**), **Polars**, **Python**, and advanced **SQL**.
+* **Platform & Reliability Engineering:** Implementing Infrastructure as Code (**IaC**) to eliminate configuration drift using **Terraform**, alongside containerization with **Docker & K8s**, and automation via **Bash / Shell Scripting**.
+* **CI/CD & Workflow Automation:** Automating the data lifecycle through Git-based **CI/CD** pipelines utilizing **GitHub Actions** and orchestrating complex workflows with **Apache Airflow**.
 
 <div align="center">
   <picture>
